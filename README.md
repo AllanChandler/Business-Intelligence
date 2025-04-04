@@ -1,1 +1,1 @@
-# Business-Intelligence
+MINI PROJECT 1: DATA INGESTION AND WRANGLING
