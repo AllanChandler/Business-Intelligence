@@ -1,9 +1,5 @@
 MINI PROJECT 1: DATA INGESTION AND WRANGLING:
 
-## Om projektet
-Dette projekt er lavet som en del af faget TDI@CPHBUS.  
-Formålet er at øve data indlæsning, rensning og visualisering på data fra forskellige formater.
-
 ## Datatyper anvendt
 - **CSV** (Comma-Separated Values)
 - **JSON** (JavaScript Object Notation)
