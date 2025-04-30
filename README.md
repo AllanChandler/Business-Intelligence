@@ -1,5 +1,3 @@
-# Lavet af:
-
 ## Gruppe
 
 - Allan 
