@@ -1,3 +1,7 @@
+# Projekt
+
+Mini Project 2: Data Exploration and Visualisation 
+
 # Contributions
 
 Allan: Samlet det hele og Opgave 1-3, 15-16. 
