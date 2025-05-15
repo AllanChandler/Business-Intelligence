@@ -1,4 +1,4 @@
-# Which machine learning methods did you choose to apply in the application and why?
+## Which machine learning methods did you choose to apply in the application and why?
 Vi valgte at anvende Random Forest og Gradient Boosting (f.eks. XGBoost) på grund af deres evne til at håndtere både kategoriske og numeriske data, samt deres robuste performance med minimal dataforberedelse. Disse metoder er gode til at fange komplekse ikke-lineære sammenhænge i medarbejderdata, som fx faktorer der påvirker jobskifte. Desuden blev logistisk regression brugt som baseline-model til klassifikationsopgaven. Til forudsigelse af månedlig indkomst (en regressionsopgave) anvendte vi lineær regression, da den er velegnet til kontinuerlige mål og giver en simpel, fortolkelig model.
 
 # How accurate is your solution of prediction? Explain the meaning of the quality measures.
