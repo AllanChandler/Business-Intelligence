@@ -1,3 +1,5 @@
+## Link til vores arbejds mappe -> https://github.com/Marwamnr/OpgaveBi/
+
 ## Which machine learning methods did you choose to apply in the application and why?
 
 Vi valgte forskellige machine learning-metoder afhængigt af opgavetypen. Til regressionsopgaven, hvor vi skulle forudsige månedlig indkomst, anvendte vi lineær regression, da den er simpel, fortolkelig og velegnet til kontinuerlige målvariable. Den gør det muligt at forstå, hvordan fx erfaring, uddannelse og jobniveau påvirker lønnen. Til klassifikationsopgaven, hvor vi skulle forudsige, om en medarbejder forlader jobbet (attrition), anvendte vi Random Forest, da metoden er god til at håndtere både kategoriske og numeriske variable, samtidig med at den kan modellere komplekse ikke-lineære sammenhænge. Logistisk regression blev anvendt som baseline-model på grund af dens enkle struktur og fortolkelighed. Til clustering-opgaven anvendte vi K-Means, da det er en effektiv metode til at gruppere medarbejdere i segmenter baseret på ligheder i deres karakteristika. Antallet af klynger blev valgt ud fra den højeste silhouette score, som angiver, hvor godt adskilt og sammenhængende klyngerne er.
