@@ -1,4 +1,4 @@
-## Link til vores arbejds mappe -> https://github.com/Marwamnr/OpgaveBi/
+
 
 ## Which machine learning methods did you choose to apply in the application and why?
 
